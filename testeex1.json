@@ -1,0 +1,11 @@
+{
+    "Nome Ficheiro.txt": "testeex1.txt",
+    "Nr Linhas": 1,
+    "Nr Chars": 8,
+    "String Maior": "aaa",
+    "Occorencia de Letras": {
+        "a": 3,
+        "e": 1,
+        "o": 2
+    }
+}
